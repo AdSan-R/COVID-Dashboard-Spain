@@ -10,7 +10,7 @@ This [Coronavirus dashboard: the case of Spain](https://www.antoinesoetewey.com/
 
 **Code**
 
-The code behind this dashboard is available on [GitHub](https://github.com/AntoineSoetewey/coronavirus_dashboard){target="_blank"}.
+The code behind this dashboard is available on [GitHub](https://github.com/AntoineSoetewey/coronavirus_dashboard).
 
 **Data**
 
@@ -19,5 +19,7 @@ The input data for this dashboard is the dataset available from the [`{coronavir
 The data and dashboard are refreshed on a daily basis.
 
 The raw data is pulled from the Johns Hopkins University Center for Systems Science and Engineering (JHU CCSE) Coronavirus [repository](https://github.com/RamiKrispin/coronavirus-csv).
+
+**Blog**
 
 *Go back to [Machine Learning 2 Projects](https://www.ml2projects.com/) (blog)*.

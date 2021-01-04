@@ -2,7 +2,7 @@
 
 **The Coronavirus Dashboard: The case of Spain**
 
-This [Coronavirus dashboard: The case of Spain](https://www.antoinesoetewey.com/files/coronavirus-dashboard.html) provides an overview of the 2020 Novel Coronavirus COVID-19 epidemic for Spain This dashboard is built with R using the R Makrdown framework and was adapted from these:
+This [Coronavirus dashboard: The case of Spain](https://rpubs.com/AdSan-R/COVID19_Spain) provides an overview of the 2020 Novel Coronavirus COVID-19 epidemic for Spain This dashboard is built with R using the R Makrdown framework and was adapted from these:
 
 [dashboard](https://ramikrispin.github.io/coronavirus_dashboard/) by Rami Krispin.
 

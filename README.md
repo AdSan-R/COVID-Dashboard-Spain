@@ -10,11 +10,11 @@ This [Coronavirus dashboard: The case of Spain](https://rpubs.com/AdSan-R/COVID1
 
 **Code**
 
-The code behind this dashboard is available on [GitHub](https://github.com/AntoineSoetewey/coronavirus_dashboard).
+The code behind this dashboard is available on [GitHub](https://github.com/AdSan-R/COVID-Dashboard-Spain/blob/main/COVID19.Rmd).
 
 **Data**
 
-The input data for this dashboard is the dataset available from the [`{coronavirus}`](https://raw.githubusercontent.com/RamiKrispin/coronavirus/master/csv/coronavirus.csv) R package. 
+The input data for this dashboard is the dataset available from the [coronavirus](https://raw.githubusercontent.com/RamiKrispin/coronavirus/master/csv/coronavirus.csv) R package. 
 
 The data and dashboard are refreshed on a daily basis.
 
@@ -22,4 +22,4 @@ The raw data is pulled from the Johns Hopkins University Center for Systems Scie
 
 **Blog**
 
-*Go back to [Machine Learning 2 Projects](https://www.ml2projects.com/) (blog)*.
+Go back to [Machine Learning 2 Projects](https://www.ml2projects.com/) (blog).

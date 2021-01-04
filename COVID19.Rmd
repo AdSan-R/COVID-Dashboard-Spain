@@ -546,9 +546,9 @@ coronavirus %>%
 About
 =======================================================================
 
-**The Coronavirus Dashboard: the case of Spain**
+**The Coronavirus Dashboard: The case of Spain**
 
-This [Coronavirus dashboard: the case of Spain](https://rpubs.com/AdSan-R/COVID_dashboard_Spain) provides an overview of the 2020 Novel Coronavirus COVID-19 epidemic for Spain This dashboard is built with R using the R Makrdown framework and was adapted from these:
+This [Coronavirus dashboard: The case of Spain](https://rpubs.com/AdSan-R/COVID19_Spain) provides an overview of the 2020 Coronavirus COVID-19 epidemic for Spain This dashboard is built with R using the R Makrdown framework and was adapted from these:
 
 [dashboard](https://ramikrispin.github.io/coronavirus_dashboard/){target="_blank"} by Rami Krispin.
 
@@ -556,7 +556,7 @@ This [Coronavirus dashboard: the case of Spain](https://rpubs.com/AdSan-R/COVID_
 
 **Code**
 
-The code behind this dashboard is available on [GitHub](https://github.com/AntoineSoetewey/coronavirus_dashboard){target="_blank"}.
+The code behind this dashboard is available on [GitHub](https://github.com/AdSan-R/COVID-Dashboard-Spain/edit/main/COVID19.Rmd){target="_blank"}.
 
 **Data**
 
